@@ -12,3 +12,7 @@ They can play on almost every site including Google, YouTube, Facebook, DeviantA
 
 There are shimeji buddies of many popular anime series, games, movies, animations, etc.
 
+## Thanks
+
+A shoutout to Kilkakon who provided the original source code which was used as the basis for my creation. For further information please visit: kilkakon.com
+
